@@ -1,7 +1,7 @@
 pipeline {
   
     agent {
-        label 'jenkins-worker'
+        label 'Jenkins-Agent'
     }
     
     tools{
